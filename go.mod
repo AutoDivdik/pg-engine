@@ -1,3 +1,3 @@
-module github.com/AutoDivdik/pg_engine
+module github.com/AutoDivdik/pg-engine
 
 go 1.20

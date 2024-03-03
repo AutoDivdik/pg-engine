@@ -1,4 +1,4 @@
-package pg_engine
+package engine
 
 import "database/sql"
 
